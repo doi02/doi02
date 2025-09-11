@@ -1,41 +1,34 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Welcome%20to%20my%20GitHub%20Space!%20🚀&fontAlign=50&fontAlignY=40&desc=대학생%20%7C%20개발자%20doi02&descAlign=60&descAlignY=65" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCEFA,100:6DB33F&height=180&section=header&text=🌟%20Welcome%20to%20doi02's%20Profile%20🌟&fontSize=38&fontAlignY=40&fontAlign=50" />
+
   <br>
-  
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Student-42%20Gyeongsan-000000?style=for-the-badge&logo=42&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Developer-6DB33F?style=for-the-badge"/>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
+
 안녕하세요!  
-저는 **대학생 & 개발자** doi02입니다.  
-새로운 기술을 배우고 직접 구현하는 것을 좋아하며, 꾸준히 성장하는 개발자를 꿈꾸고 있습니다.
-
-- **전공:** 컴퓨터공학
-- **주요 언어:** C, Java(Spring Boot)
-- **관심 분야:** 시스템 프로그래밍, 웹 백엔드, 오픈소스
+**컴퓨터공학을 전공하며 42경산 에꼴에서 배우고 성장하는 개발자** doi02입니다.  
+새로운 기술을 탐구하고, 직접 구현하는 것을 좋아합니다.  
+**함께 성장하는 개발자**를 꿈꿉니다.
 
 ---
 
-## 🚀 Skills & Tools
+## 🛠️ Skills & Tech Stack
 
-<div>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-</div>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ---
 
-## 📚 대표 활동 및 프로젝트
+## 📚 대표 활동 & 프로젝트
 
-- <img src="https://img.shields.io/badge/42%20Gyeongsan-000000?style=flat-square&logo=42&logoColor=white" height="20"/> **42경산 에꼴 활동**
+- <img src="https://img.shields.io/badge/42%20Gyeongsan-000000?style=flat-square&logo=42&logoColor=white" height="18"/> **42경산 에꼴 활동**
 - [Understanding and Using GPT Term Project](https://github.com/doi02/2025_Understanding-and-using-gpt_termproject)
 - [Operating System Term Project](https://github.com/doi02/2025-operating-system-termproject)
 - [Opensource Design](https://github.com/doi02/2025-opensource-design)
@@ -46,14 +39,12 @@
 
 ## 🌱 앞으로의 목표
 
-- 다양한 오픈소스 프로젝트에 적극적으로 기여하고 싶어요!
-- 개발자로서 기술적 깊이와 넓이를 동시에 추구하며 성장 중입니다.
-- 항상 배우는 자세로, 함께 성장하는 개발자가 되겠습니다.
+- 다양한 오픈소스 프로젝트에 적극적으로 기여
+- 기술적 깊이와 넓이 모두 추구
+- 함께 성장하는 개발자 되기
 
 ---
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=90&section=footer&text=함께%20성장해요!%20🚀&fontSize=30"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6DB33F,100:5BCEFA&height=80&section=footer&text=함께%20성장해요!%20🚀&fontSize=27"/>
 </div>
