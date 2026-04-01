@@ -12,7 +12,7 @@
 ## 🙋‍♂️ About Me
 
 안녕하세요!  
-**컴퓨터공학을 전공하며 42경산 에꼴에서 배우고 성장하는 개발자** doi02입니다.  
+**컴퓨터공학을 전공하며 배우고 성장하는 개발자** doi02입니다.  
 새로운 기술을 탐구하고, 직접 구현하는 것을 좋아합니다.  
 **함께 성장하는 개발자**를 꿈꿉니다.
 
@@ -23,7 +23,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ---
 
 ## 📚 대표 활동 & 프로젝트
