@@ -6,7 +6,7 @@
   <br>
   <img src="https://img.shields.io/badge/Student-42%20Gyeongsan-000000?style=for-the-badge&logo=42&logoColor=white"/>
   <img src="https://img.shields.io/badge/Developer-6DB33F?style=for-the-badge"/>
-  <img src="https://github.com/doi2/doi02/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/doi02/doi02/blob/output/github-contribution-grid-snake.svg">
 </div>
   
 
