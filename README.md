@@ -1,15 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6DB33F,100:5BCEFA&height=80&section=footer&text=Let's grow%20 together!%20🚀&fontSize=27"/><div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:5BCEFA,100:6DB33F&height=180&section=header&text=🌟%20Welcome%20to%20doi02's%20Profile%20🌟&fontSize=38&fontAlignY=40&fontAlign=50" />
-
-  <br>
-  <img src="https://img.shields.io/badge/Student-42%20Gyeongsan-000000?style=for-the-badge&logo=42&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Developer-6DB33F?style=for-the-badge"/>
-  <img src="https://github.com/doi02/doi02/blob/output/github-contribution-grid-snake.svg">
-</div>
-  
-
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=doi02&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/doi02"
+  width="600"
+  height="300"
+/>
+</a>
 
 ---
 
